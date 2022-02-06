@@ -9,6 +9,10 @@ Khuong Vinh Khang Tran - khuongvinhkhang.tran@ontariotechu.net
 Daksh Kashyap - daksh.kashyap@mail.utoronto.ca   
 Gordon Tang - gordontang@cmail.carleton.ca    
 
+## Built With: 
+* Python 
+* Jupyter Notebook
+
 ## DESCRIPTION
 Our group mostly do the work on Google Colab, so the .ipynb files here is just the copies of the files that we have on Google Colab   
 
