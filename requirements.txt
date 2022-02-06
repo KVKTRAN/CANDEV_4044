@@ -1,1 +1,7 @@
-
+numpy
+pandas
+matplotlib
+folium
+shapely
+rasterio
+scikit-learn
